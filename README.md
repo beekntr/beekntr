@@ -8,11 +8,25 @@
 ---
 
 ## 🚀 About Me
-- 🔹 **Full-Stack Web Developer** with expertise in **MongoDB, React, Node.js, Express.js, TailwindCSS, and more!**
-- 🔹 **Cybersecurity Enthusiast** with knowledge of **penetration testing and network security.**
-- 🔹 **Cloud Engineer**, skilled in **Nginx & cloud deployments.**
-- 🔹 Experienced in **C, C++, JavaScript, HTML, CSS, and Git.**
-- 🔹 I love solving **LeetCode problems** & working on **open-source projects**.
+```javascript
+const aboutMe = [
+  "Full-Stack Web Developer",
+  "Cybersecurity Enthusiast",
+  "Cloud Engineer",
+  "C++, JavaScript, Node.js, React, MongoDB",
+  "Always Learning & Innovating!"
+];
+
+let i = 0;
+function typeWriter() {
+  if (i < aboutMe.length) {
+    console.log(aboutMe[i]);
+    i++;
+    setTimeout(typeWriter, 1500);
+  }
+}
+typeWriter();
+```
 
 ---
 
