@@ -1,4 +1,4 @@
-### Hi there, I'm Kshitij Singh Bhati! 👋
+### Hi there, I'm Kshitij Singh Bhati! 👋 👋
 
 ---
 
