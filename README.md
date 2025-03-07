@@ -17,15 +17,6 @@ const aboutMe = [
   "Always Learning & Innovating!"
 ];
 
-let i = 0;
-function typeWriter() {
-  if (i < aboutMe.length) {
-    console.log(aboutMe[i]);
-    i++;
-    setTimeout(typeWriter, 1500);
-  }
-}
-typeWriter();
 ```
 
 ---
