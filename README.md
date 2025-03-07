@@ -2,7 +2,7 @@
 
 ---
 
-💻 **Web Developer | Cybersecurity Enthusiast | Cloud Engineer** ☁️  
+💻 **Software Developer | Cybersecurity Enthusiast | Cloud Engineer** ☁️  
 🔹 Passionate about building secure, scalable, and high-performance applications.
 
 ---
