@@ -15,6 +15,7 @@ const aboutMe = [
   "Cloud Engineer",
   "C++, JavaScript, Node.js, React, MongoDB",
   "Always Learning & Innovating!"
+  "Network Administrator"
 ];
 
 ```
