@@ -14,10 +14,9 @@ const aboutMe = [
   "Cybersecurity Enthusiast",
   "Cloud Engineer",
   "C++, JavaScript, Node.js, React, MongoDB",
-  "Always Learning & Innovating!"
+  "Always Learning & Innovating!",
   "Network Administrator"
 ];
-
 ```
 
 ---
@@ -41,7 +40,12 @@ const aboutMe = [
 
 ---
 
-## 📫 Connect with Me
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beekntr&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
+---
+
+## 👯‍♂️ Connect with Me
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/beekntr/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beekntr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ksiij)
