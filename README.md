@@ -31,6 +31,12 @@ const aboutMe = [
 
 ---
 
+### 🧠 Leetcode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/poori2907?ext=contest)](https://leetcode.com/beekntr)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beekntr&show_icons=true&theme=radical" alt="Kshitij's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekntr&layout=compact&theme=radical" alt="Top Languages" /> </p>
 ---
