@@ -56,4 +56,4 @@ const aboutMe = [
 
 ---
 
-<p align="center"><strong>🌟 "Code, Create, Secure, and Innovate!" 🚀</strong></p> ```
+<p align="center"><strong>🌟 "Code, Create, Secure, and Innovate!" 🚀</strong></p>
