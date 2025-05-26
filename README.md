@@ -3,8 +3,9 @@
 <p align="center">🔹 Passionate about building secure, scalable, and high-performance applications.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Full+Stack+Web+Developer+%7C+Cloud+Engineer;Always+Learning+and+Innovating!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Full+Stack+Web+Developer;Cloud+Engineer;Always+Learning+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
