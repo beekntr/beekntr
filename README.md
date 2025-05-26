@@ -33,7 +33,12 @@ const aboutMe = [
 
 ### 🧠 Leetcode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/poori2907?ext=contest)](https://leetcode.com/beekntr)
+<p align="center">
+  <a href="https://leetcode.com/u/beekntr/">
+    <img src="https://leetcard.jacoblin.cool/beekntr?theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
 
 ---
 
