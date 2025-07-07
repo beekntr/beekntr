@@ -2,9 +2,9 @@
 <h3 align="center">💻 Software Developer | Cybersecurity Enthusiast | Cloud Engineer ☁️</h3>
 <p align="center">🔹 Passionate about building secure, scalable, and high-performance applications.</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Full+Stack+Web+Developer;Cloud+Engineer;Always+Learning+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+THE+FUTURE;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
+</div>
 
 
 
