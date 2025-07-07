@@ -3,7 +3,7 @@
 <p align="center">🔹 Passionate about building secure, scalable, and high-performance applications.</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+STUDENT+|+DEVELOPER;🚀+BUILDING+DIGITAL+EXPERIENCES;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+STUDENT+|+DEVELOPER;🚀+BUILDING+DIGITAL+SOLUTIONS;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
 </div>
 
 
