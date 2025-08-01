@@ -44,7 +44,7 @@ const aboutMe = [
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beekntr&show_icons=true&theme=radical" alt="Kshitij's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekntr&layout=compact&theme=radical" alt="Top Languages" /> </p>
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=beekntr&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" /> </p>
