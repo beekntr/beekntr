@@ -1,0 +1,56 @@
+name: Refresh profile cards
+
+# Builds the stats, languages and snake images into /profile so the README
+# never depends on a public card server being up.
+on:
+  schedule:
+    - cron: "23 1 * * *" # daily, 06:53 IST
+  workflow_dispatch: # run it once by hand after the first push
+  push:
+    branches: [main, master]
+    paths: [".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=16&bg_color=E8EEF0&title_color=14253D&text_color=14253D&icon_color=2F7F8F&ring_color=8A4F96&rank_icon=github&custom_title=GitHub%20activity"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=E8EEF0&title_color=14253D&text_color=14253D&custom_title=Languages"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?color_snake=#C23A2B&color_dots=#E3E9EC,#B9D3D9,#7FB0BB,#3F8796,#14253D
+            profile/snake-dark.svg?palette=github-dark&color_snake=#E0533F&color_dots=#161B22,#123A42,#1F6070,#2F8FA3,#7CC7D6
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: refresh profile cards" || exit 0
+          git push
