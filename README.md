@@ -1,49 +1,78 @@
-<h1 align="center">Hey there, I'm Kshitij Singh Bhati! 👋</h1>
-<h3 align="center">💻 Software Developer | Cybersecurity Enthusiast | Cloud Engineer ☁️</h3>
-<p align="center">🔹 Passionate about building secure, scalable, and high-performance applications.</p>
+<p align="center">
+  <img src="./assets/credential.svg" width="100%" alt="Developer credential card for Kshitij Singh Bhati, software developer at GullyCricket. Works on wallets, payments and security. Stamped verified.">
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+STUDENT+|+DEVELOPER;🚀+BUILDING+DIGITAL+SOLUTIONS;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kshitijsinghbhati"><img src="https://img.shields.io/badge/LinkedIn-kshitijsinghbhati-E8EEF0?style=flat-square&labelColor=14253D" alt="LinkedIn: kshitijsinghbhati"></a>
+  <a href="https://twitter.com/_ksiij"><img src="https://img.shields.io/badge/X-__ksiij-E8EEF0?style=flat-square&labelColor=14253D" alt="X: _ksiij"></a>
+  <a href="https://leetcode.com/u/beekntr/"><img src="https://img.shields.io/badge/LeetCode-beekntr-E8EEF0?style=flat-square&labelColor=14253D" alt="LeetCode: beekntr"></a>
+  <a href="https://instagram.com/_ksiij"><img src="https://img.shields.io/badge/Instagram-__ksiij-E8EEF0?style=flat-square&labelColor=14253D" alt="Instagram: _ksiij"></a>
+  <a href="https://instagram.com/ksiijexplains"><img src="https://img.shields.io/badge/Tech%20reels-ksiijexplains-E8EEF0?style=flat-square&labelColor=C23A2B" alt="Tech reels on Instagram: ksiijexplains"></a>
+</p>
 
+I build backends that move money and keep attackers out. At **GullyCricket** I work on wallets, payments and the security around them. Before that I was a backend intern at **STPI Jaipur**. I'm in the final year of a B.Tech in Computer Engineering at PIET Jaipur, and I spend my spare time in my home lab.
 
+## What I'm working on
 
----
+- **Wallets and payments at GullyCricket.** Remote, since April 2026. Backend services where correctness and security matter more than speed of shipping.
+- **[ZTA Firewall](https://firewall.kshitijsinghbhati.in).** A firewall built on zero-trust principles: verify every request and trust nothing by default.
+- **My home lab.** A self-hosted server where I run, break and harden things before they go anywhere near production.
+- **Tech in Hinglish.** Short explainer reels on Instagram at [@ksiijexplains](https://instagram.com/ksiijexplains).
 
-## 🚀 About Me
+## Stack
 
-```javascript
-const aboutMe = [
-  "Full-Stack Web Developer",
-  "Cybersecurity Enthusiast",
-  "Cloud Engineer",
-  "C++, JavaScript, Node.js, React, MongoDB",
-  "Always Learning & Innovating!",
-  "Network Administrator"
-];
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-E8EEF0?style=flat-square&logo=nodedotjs&logoColor=14253D" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-E8EEF0?style=flat-square&logo=express&logoColor=14253D" alt="Express">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-E8EEF0?style=flat-square&logo=react&logoColor=14253D" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-E8EEF0?style=flat-square&logo=nextdotjs&logoColor=14253D" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-E8EEF0?style=flat-square&logo=tailwindcss&logoColor=14253D" alt="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-E8EEF0?style=flat-square&logo=mongodb&logoColor=14253D" alt="MongoDB">
+      <img src="https://img.shields.io/badge/PostgreSQL-E8EEF0?style=flat-square&logo=postgresql&logoColor=14253D" alt="PostgreSQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra and tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Nginx-E8EEF0?style=flat-square&logo=nginx&logoColor=14253D" alt="Nginx">
+      <img src="https://img.shields.io/badge/Git-E8EEF0?style=flat-square&logo=git&logoColor=14253D" alt="Git">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-E8EEF0?style=flat-square&logo=javascript&logoColor=14253D" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C%2B%2B-E8EEF0?style=flat-square&logo=cplusplus&logoColor=14253D" alt="C++">
+    </td>
+  </tr>
+</table>
 
-```
+## Activity
 
----
+<!-- These cards are generated daily by .github/workflows/profile-cards.yml and committed to /profile. -->
+<p align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats for beekntr">
+  <img src="./profile/top-langs.svg" height="165" alt="Most used languages for beekntr">
+</p>
 
-## 🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beekntr/beekntr/HEAD/profile/snake-dark.svg">
+    <img src="./profile/snake.svg" width="100%" alt="A snake eating my GitHub contribution graph">
+  </picture>
+</p>
 
-
----
-
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beekntr&show_icons=true&theme=radical" alt="Kshitij's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekntr&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
-
-## 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=beekntr&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" /> </p>
-
----
-
-## 👯‍♂️ Connect with Me
-<p align="center"> <a href="https://leetcode.com/u/beekntr/"> <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow" /> </a> <a href="https://github.com/beekntr"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://twitter.com/_ksiij"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://instagram.com/_ksiij"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/kshitijsinghbhati"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-
----
-
-<p align="center"><strong>🌟 "Code, Create, Secure, and Innovate!" 🚀</strong></p>
+<p align="center"><sub><i>Never trust, always verify.</i></sub></p>
